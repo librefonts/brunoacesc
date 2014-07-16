@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="BrunoAceSC-Regular.ttf.GlyphOrder.ttx"/>
+  <head src="BrunoAceSC-Regular.ttf._h_e_a_d.ttx"/>
+  <hhea src="BrunoAceSC-Regular.ttf._h_h_e_a.ttx"/>
+  <maxp src="BrunoAceSC-Regular.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="BrunoAceSC-Regular.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="BrunoAceSC-Regular.ttf._h_m_t_x.ttx"/>
+  <cmap src="BrunoAceSC-Regular.ttf._c_m_a_p.ttx"/>
+  <fpgm src="BrunoAceSC-Regular.ttf._f_p_g_m.ttx"/>
+  <prep src="BrunoAceSC-Regular.ttf._p_r_e_p.ttx"/>
+  <cvt src="BrunoAceSC-Regular.ttf._c_v_t.ttx"/>
+  <loca src="BrunoAceSC-Regular.ttf._l_o_c_a.ttx"/>
+  <glyf src="BrunoAceSC-Regular.ttf._g_l_y_f.ttx"/>
+  <name src="BrunoAceSC-Regular.ttf._n_a_m_e.ttx"/>
+  <post src="BrunoAceSC-Regular.ttf._p_o_s_t.ttx"/>
+  <gasp src="BrunoAceSC-Regular.ttf._g_a_s_p.ttx"/>
+  <GPOS src="BrunoAceSC-Regular.ttf.G_P_O_S_.ttx"/>
+  <GSUB src="BrunoAceSC-Regular.ttf.G_S_U_B_.ttx"/>
+</ttFont>
